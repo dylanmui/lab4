@@ -41,5 +41,9 @@ a{
 }
 
 .body-text{
-    font-family: Arial, sans-serif;
+    font-family: Arial, serif;
+}
+
+.custom-font{
+    font-family: 'Times New Roman', serif;
 }
