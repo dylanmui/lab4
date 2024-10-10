@@ -51,3 +51,7 @@ a{
 #id4{
     text-transform: uppercase;
 }
+
+.capitalize-text{
+    text-transform: capitalize;
+}
