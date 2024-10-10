@@ -47,3 +47,7 @@ a{
 .custom-font{
     font-family: 'Times New Roman', serif;
 }
+
+#id4{
+    text-transform: uppercase;
+}
